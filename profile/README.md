@@ -1,6 +1,3 @@
-## Hi there 👋
-아카이브팀 핵심프로젝트 작업공간 입니다.
-
 # 🛴 스마트 킥보드 프로젝트
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
