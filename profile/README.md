@@ -1,11 +1,3 @@
-<div align="center">
-  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="100" cy="100" r="50" fill="#61DAFB">
-      <animate attributeName="r" from="50" to="60" dur="0.5s" begin="0s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
-</div>
-
 # 🛴 스마트 킥보드 프로젝트
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
