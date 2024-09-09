@@ -1,3 +1,6 @@
+
+![팀 아카이브-001](https://github.com/user-attachments/assets/48cdda87-790b-499b-bc12-f000f2d7c49c)
+
 # 🛴 스마트 킥보드 프로젝트
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
