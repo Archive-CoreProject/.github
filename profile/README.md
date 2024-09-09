@@ -1,7 +1,7 @@
 
 ![팀 아카이브-001](https://github.com/user-attachments/assets/48cdda87-790b-499b-bc12-f000f2d7c49c)
 
-# 🛴 스마트 킥보드 프로젝트
+# 🛴 음주감지 헬멧 및 자동 잠금기능 보관함이 있는 공유 킥보드 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -12,17 +12,14 @@
 **스마트 킥보드 프로젝트** 여러 사용자 기능을 제공하는 IoT 기반의 스마트 킥보드 시스템입니다. 이 프로젝트는 Node.js 백엔드, React 프론트엔드, Arduino 마이크로컨트롤러 및 MySQL 데이터베이스를 사용하여 완성되었습니다.
 
 ## 주요 기능
-- **스마트 락커**: 헬멧 도난 방지를 위한 스마트 락커 
+- **스마트 헬멧박스**: 헬멧 도난 방지를 위한 헬멧박스. 사용 인증을 해야지만 잠금이 해제되어 대여 가능 
 - **킥보드 제어**: 음주감지 및 착용감지 헬멧을 통한 킥보드 동작 제어
-- **사용자 관리**: 사용자 인증 및 프로필 관리 기능
-- **데이터 시각화**: 주행 거리, 평균 속도 등 통계 데이터 시각화
+- **사용자 관리**: 음주측정 결과에 따른 사용자의 서비스 이용 제한 가능
 
-## 아키텍처
-이 프로젝트는 다음과 같은 아키텍처로 구성됩니다:
-
+## 서비스
 - Frontend (React): 사용자 인터페이스와 관련된 모든 작업을 처리
-- Backend (Node.js): RESTful API 제공 및 데이터 처리
-- Arduino: 하드웨어와 소프트웨어 간의 통신을 담당
+- Backend (Node.js): API 제공 및 데이터 처리
+- Arduino (ESP32): 센싱된 값과 사용자의 사용 여부에 따른 동작 처리
 - Database (MySQL): 사용자, 킥보드, 주행 데이터 저장 및 관리
 
 <!--
