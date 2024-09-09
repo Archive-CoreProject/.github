@@ -1,5 +1,6 @@
 
-![팀 아카이브-001](https://github.com/user-attachments/assets/48cdda87-790b-499b-bc12-f000f2d7c49c)
+![팀 아카이브-001 (1)](https://github.com/user-attachments/assets/c459ed32-f5bb-4459-93d6-6d07c9ad7622)
+
 
 # 🛴 음주감지 헬멧 및 자동 잠금기능 보관함이 있는 공유 킥보드 
 
