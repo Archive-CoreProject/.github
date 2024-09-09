@@ -5,7 +5,15 @@
 - 킥보드를 대여하려는 사용자의 헬멧 착용 및 음주 여부를 파악하여 킥보드 동작 제어
 - 헬멧 도난 방지를 위한 자동잠금장치 기능이 있는 헤드박스 제공
 ## 2. 주요기능
+![image](https://github.com/user-attachments/assets/4c672891-2a4e-430a-a4be-e7a62494dab6)
 ## 3. 기술스택
+|제목|내용|
+|------|---|
+|사용언어|HTML/CSS, JavaScript, cpp(Arduino)|
+|라이브러리/프레임워크|React, Bootstrap, axios, mysql2, express, jwt, etc|
+|개발도구|VSCode, ArduinoIDE, Postman, MySQL workbench(cli), etc|
+|서버환경|Node.js|
+|데이터베이스|MySQL|
 ## 4. 시스템 아키텍처
 ## 5. 유스케이스
 ## 6. 서비스 흐름도
