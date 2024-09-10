@@ -14,10 +14,14 @@
 |개발도구|VSCode, ArduinoIDE, Postman, MySQL workbench(cli), etc|
 |서버환경|Node.js|
 |데이터베이스|MySQL|
+|협력도구|Github, Slack|
 ## 4. 시스템 아키텍처
+
 ## 5. 유스케이스
 ## 6. 서비스 흐름도
 ## 7. ER 다이어그램
+![ER_DIAGRAM](https://github.com/user-attachments/assets/9c3f91e6-6864-426a-84c0-d92c7f4da50c)
+
 ## 8 .화면구성
 ## 9. 팀원역할
 |🧰문주원(팀장)|🎶배길준(부팀장)|🛠김문창|🎨안진영|🔎김태윤|
